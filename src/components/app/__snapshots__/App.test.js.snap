@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App есть корректный снимок 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="interactions"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        onChange={[Function]}
+        type="text"
+        value="redux"
+      />
+      <button
+        type="submit"
+      >
+         
+        Поиск
+         
+      </button>
+    </form>
+  </div>
+  <div
+    className="table"
+  >
+    <div
+      className="table-header"
+    >
+      <span
+        style={
+          Object {
+            "width": "40%",
+          }
+        }
+      >
+        <button
+          className="button-inline"
+          onClick={[Function]}
+          type="button"
+        >
+          Заголовок
+        </button>
+      </span>
+      <span
+        style={
+          Object {
+            "width": "30%",
+          }
+        }
+      >
+        <button
+          className="button-inline"
+          onClick={[Function]}
+          type="button"
+        >
+          Автор
+        </button>
+      </span>
+      <span
+        style={
+          Object {
+            "width": "10%",
+          }
+        }
+      >
+        <button
+          className="button-inline"
+          onClick={[Function]}
+          type="button"
+        >
+          Комментарии
+        </button>
+      </span>
+      <span
+        style={
+          Object {
+            "width": "10%",
+          }
+        }
+      >
+        <button
+          className="button-inline"
+          onClick={[Function]}
+          type="button"
+        >
+          Очки
+        </button>
+      </span>
+      <span
+        style={
+          Object {
+            "width": "10%",
+          }
+        }
+      >
+         Архив 
+      </span>
+    </div>
+  </div>
+  <div
+    className="interactions"
+  >
+    <div>
+      Загрузка ...
+    </div>
+  </div>
+</div>
+`;
